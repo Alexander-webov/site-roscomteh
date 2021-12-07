@@ -1,3 +1,3 @@
 # site-roscomteh
 
-Демонстрационная версия сайта - http://roscomteh.your-site.ru.com/
+Демонстрационная версия сайта - https://alexander-webov.github.io/site-roscomteh/
